@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.2.2753 rev712</version>
   <activeMods>
@@ -9,8 +9,13 @@
     <li>jecrell.jecstools</li>
     <li>latta.fsharp.core</li>
     <li>xiaozoom.limitraid</li>
+    <li>erdelf.humanoidalienraces</li>
+    <li>dalrae.garamraceaddon</li>
+    <li>emperor.of.dragon</li>
+    <li>dubwise.dubsperformanceanalyzer</li>
     <li>com.bymarcin.architecticons</li>
     <li>deathdx.rimsearch1.2</li>
+    <li>eiten.xangelracesgaram</li>
     <li>void.terraformrimworld</li>
     <li>com.yayo.racequestpawn</li>
     <li>antaioz.tdiner</li>
@@ -26,11 +31,9 @@
     <li>youhaveavirus.extendedturrets</li>
     <li>smilijan.research200</li>
     <li>smilijan.research500</li>
-    <li>daniledman.hardworkinganimals</li>
-    <li>peppsen.pmusic</li>
     <li>adjustabletradeships.kv.rw</li>
+    <li>daniledman.hardworkinganimals</li>
     <li>mlie.rimbank</li>
-    <li>erdelf.humanoidalienraces</li>
     <li>roskii.callistans</li>
     <li>roskii.trenchcats</li>
     <li>balistafreak.standalonehotspring</li>
@@ -51,9 +54,9 @@
     <li>supes.powerlogic.core</li>
     <li>kijinrace.chinesepack</li>
     <li>ssulunge.kijinrace2</li>
+    <li>amlifurx.storypack.hellolansy</li>
     <li>bichang.ferianrace</li>
-    <li>rwzh.chinesepack.ferianrace</li>
-    <li>bulgogifried.ferianfaction</li>
+    <li>amlifurx.storypack.iamlansy</li>
     <li>yume.storiesretold</li>
     <li>ogliss.thewhitecrayon.quarry</li>
     <li>ldv112.ldvoshracehmodshpersonalhgraphichretouchhuhforhavali</li>
@@ -63,22 +66,15 @@
     <li>rwzh.chinesepack.worldedit</li>
     <li>funkyshit.worldedit</li>
     <li>user19990313.runtimegc</li>
-    <li>kage.resourcetrees</li>
     <li>murmur.tcu</li>
+    <li>kage.resourcetrees</li>
     <li>murmur.oocmovespeedboost</li>
-    <li>rwzh.chinesepack.mylittleboat</li>
-    <li>rwzh.chinesepack.boats</li>
-    <li>smashphil.boats</li>
-    <li>meltup.mylittleboat</li>
     <li>shavius.yayocombat3.zh</li>
     <li>rah.rbse</li>
     <li>jaxxa.ed.cheatreactor</li>
     <li>benbenrathwhbiscuitminer121.dinosauriahnqnslcrt</li>
     <li>dragonianrace.chinesepack</li>
     <li>gloomylynx.dragonianoriginal</li>
-    <li>rwzh.chinesepack.dresspatients</li>
-    <li>rwzh.chinesepack.epoeforkedroyalty</li>
-    <li>rwzh.chinesepack.epoeforked</li>
     <li>dylan.csl</li>
     <li>babies.and.children</li>
     <li>tenmoe.gfcl</li>
@@ -96,6 +92,8 @@
     <li>roolo.giddyuprideandroll</li>
     <li>roolo.giddyupcaravan</li>
     <li>sarg.giddyupsaddles</li>
+    <li>gguake.ai.dsfi</li>
+    <li>rwzh.chinesepack.aidsfi</li>
     <li>roolo.whatthehack</li>
     <li>roolo.giddyupmechanoids</li>
     <li>rwzh.chinesepack.giddyup</li>
@@ -103,17 +101,12 @@
     <li>unlimitedhugs.allowtool</li>
     <li>hodlhodl.releaseanimals</li>
     <li>walkingproblem.wildanimalsex</li>
-    <li>rwzh.chinesepack.infused</li>
     <li>rwzh.chinesepack.simpleconcrete</li>
-    <li>rwzh.chinesepack.ivoryandjadecarving</li>
     <li>rwzh.chinesepack.simpleturrets</li>
     <li>captainsnafu152.oewvuhresourcehreplicatorhchinesehpack</li>
     <li>rusticfox.chickenplucker.rr</li>
     <li>vanillaexpanded.afvehicles</li>
-    <li>rwzh.chinesepack.coffeeandtea</li>
-    <li>rwzh.chinesepack.harrowedlight</li>
     <li>rwzh.chinesepack.blueberries</li>
-    <li>rwzh.chinesepack.higherpowermod</li>
     <li>xun.therocktrade</li>
     <li>xun.srtsexpanded</li>
     <li>xun.dubsmintmenus</li>
@@ -131,8 +124,8 @@
     <li>mlie.advancedbiomes</li>
     <li>qa.qqijq</li>
     <li>neceros.atvfem</li>
-    <li>rwzh.chinesepack.androidtiers</li>
     <li>atlas.androidtiers</li>
+    <li>rwzh.chinesepack.androidtiers</li>
     <li>chjees.androids</li>
     <li>razor2.3.anotherrimworldmod.autocutblight</li>
     <li>notooshabby.awesomeinventory</li>
@@ -149,6 +142,21 @@
     <li>ghsgkd.animalslogiczh</li>
     <li>zh.animalsarefun</li>
     <li>gguake.apparelbodyresolver</li>
+    <li>sutsutman.marilyntheminchoworshipperwitch_copy</li>
+    <li>sutsutman.minchothemintchocoslime_copy</li>
+    <li>zh.sutsutman.minchothemintchocoslime</li>
+    <li>lingluo.zerotechcore</li>
+    <li>lingluo.zerotechability</li>
+    <li>lingluo.zerotechtrait</li>
+    <li>lingluo.zerotechstory</li>
+    <li>lingluo.zerotechshield</li>
+    <li>lingluo.zerotechbinoic</li>
+    <li>lingluo.zerotechpower</li>
+    <li>lingluo.zerotechfb</li>
+    <li>lingluo.zerotechmad</li>
+    <li>lingluo.zerotechflare</li>
+    <li>lingluo.zerotechfaction</li>
+    <li>lingluo.zerotechdefence</li>
     <li>fluffy.areaunlocker</li>
     <li>fluffy.backuppower</li>
     <li>machine.betterinfestations</li>
@@ -159,18 +167,18 @@
     <li>baalevan.allturretscansetforcedtarget</li>
     <li>zephyr.blueprinttotalstooltipzh</li>
     <li>uuugggg.buildfrominventory</li>
-    <li>hatena.animaldiscovery</li>
     <li>vanya.tools.bulkcarrier</li>
     <li>brrainz.cameraplus</li>
     <li>rwzh.chinesepack.cameraplus</li>
+    <li>mehni.numbers</li>
+    <li>telardo.numberstraitaddon</li>
     <li>void.charactereditor</li>
     <li>dubwise.dubsmintminimap</li>
     <li>dubwisezh.dubsmintminimap</li>
-    <li>elc.rainworldbgm</li>
-    <li>fluffy.colonymanager</li>
     <li>rwzh.chinesepack.csl</li>
     <li>pikes.scarremovaldrug</li>
     <li>pikeszh.scarremovaldrug</li>
+    <li>sumghaidubwise.replimat</li>
     <li>avilmask.commonsense</li>
     <li>qaq.qaaaq</li>
     <li>fluffy.commandpalette</li>
@@ -180,7 +188,6 @@
     <li>uuuggggzh1.thepriceisright</li>
     <li>jaxe.bubbles</li>
     <li>jaxezh.bubbles</li>
-    <li>unlimitedhugs.defensivepositions</li>
     <li>fluffy.desirepaths</li>
     <li>gloomylynx.dragonianrace</li>
     <li>spincrus.dinosauria</li>
@@ -191,17 +198,22 @@
     <li>rwzh.chinesepack.rimofmadnesswerewolves</li>
     <li>kato.rimofmadness.vampires</li>
     <li>rwzh.chinesepack.rimofmadnessvampires</li>
+    <li>roo.antyracemod</li>
+    <li>roo.antyracemod.zh</li>
     <li>seigai.chinesepack.ancientspecies</li>
     <li>aperturestaff.dragonianraceapparelpatch</li>
     <li>aperturestaff.dragonianraceweapons</li>
     <li>eagle0600.dresspatients</li>
+    <li>rwzh.chinesepack.dresspatients</li>
     <li>dubwise.dubsbreakmod</li>
     <li>dubwise.dubsmintmenus</li>
     <li>dubwise.dubsrimkit</li>
     <li>shavius.dynamicdiplomacy.zh</li>
     <li>nilchei.dynamicdiplomacy</li>
     <li>vat.epoeforked</li>
+    <li>rwzh.chinesepack.epoeforked</li>
     <li>vat.epoeforkedroyalty</li>
+    <li>rwzh.chinesepack.epoeforkedroyalty</li>
     <li>babies.and.childrenzh</li>
     <li>ayameduki.harnearmare</li>
     <li>saakra.empire</li>
@@ -210,17 +222,10 @@
     <li>pikes.harvesteverybodyparts</li>
     <li>pikeszh.harvesteverybodyparts</li>
     <li>rwzh.chinesepack.expandedincidents</li>
-    <li>fluffy.fluffybreakdowns</li>
     <li>cabbage.rimcities</li>
     <li>murmur.factionresources</li>
     <li>wit.expandedroofing</li>
     <li>fluffy.followme</li>
-    <li>sarg.geneticrim</li>
-    <li>sarg.geneticrimdinosauria</li>
-    <li>sarg.geneticrimmegafauna</li>
-    <li>sarg.geneticrimalphaanimals</li>
-    <li>sarg.geneticrimrimbees</li>
-    <li>geneticrim.22</li>
     <li>rwzh.chinesepack.whatthehack</li>
     <li>gt.sam.glittertech</li>
     <li>solaris.furniturebase</li>
@@ -290,7 +295,6 @@
     <li>vanya.polarisbloc.securityforce</li>
     <li>vanya.polarisbloc.mechenemy</li>
     <li>vanya.polarisbloc.storytellerincidentspack</li>
-    <li>avius.prisonlabor</li>
     <li>mlie.prisonerarena</li>
     <li>chinesepackage.prisonerransom</li>
     <li>erdelf.prisonerransom</li>
@@ -331,7 +335,6 @@
     <li>uuugggg.roomfood</li>
     <li>rwzh.chinesepack.rimsenal</li>
     <li>roolo.runandgun</li>
-    <li>falconne.roomsense</li>
     <li>neceros.roomsizetolerance</li>
     <li>smashphil.neceros.srtsexpanded</li>
     <li>spdskatr.ssbiggerbatteries</li>
@@ -341,7 +344,6 @@
     <li>rwzh.chinesepack.harnearmare</li>
     <li>nemonian.my</li>
     <li>rwzh.chinesepack.nemonian</li>
-    <li>roolo.searchanddestroy</li>
     <li>rwzh.chinesepack.morecrashedshipparts</li>
     <li>syrchalis.setupcamp</li>
     <li>rwzh.chinesepack.setupcamp</li>
@@ -350,7 +352,6 @@
     <li>erdelf.showmoddesignators</li>
     <li>gguake.ui.simplesearchbar</li>
     <li>petetimessix.simplesidearms</li>
-    <li>uuugggg.smartmedicine</li>
     <li>weilbyte.snapout</li>
     <li>albion.sparklingworlds.full</li>
     <li>rwzh.chinesepack.sparklingworldsfull</li>
@@ -435,11 +436,6 @@
     <li>murmur.walllight</li>
     <li>shavius.variousspaceshipchunk.zh</li>
     <li>mlie.variousspaceshipchunk</li>
-    <li>kompadt.warhammer.gor</li>
-    <li>rwzh.chinesepack.warhammergor</li>
-    <li>kompadt.warhammer.skaven</li>
-    <li>rwzh.chinesepack.warhammerskaven</li>
-    <li>fluffy.worktab</li>
     <li>xeva.xevafaction.11</li>
     <li>lokivklokenaandoke.autopriorities</li>
     <li>xeva.xevafbpack.11</li>
@@ -456,12 +452,13 @@
     <li>ricofox233.girlsfrontline.arteam</li>
     <li>rwzh.chinesepack.jecstools</li>
     <li>torann.arimworldofmagic</li>
+    <li>kure.arom</li>
+    <li>dolphin.arom</li>
     <li>qaq.qaq</li>
-    <li>udon.animaldictionary</li>
-    <li>zh.animaldictionary</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
     <li>rwzh.chinesepack.vfepropsanddecor</li>
     <li>notfood.infused</li>
+    <li>rwzh.chinesepack.infused</li>
     <li>wemd.simpleconcrete</li>
     <li>petetimessix.compacthediffs</li>
     <li>zephyr.compacthediffszh</li>
@@ -483,6 +480,7 @@
     <li>vanillaexpanded.vfepower</li>
     <li>rwzh.chinesepack.vfepower</li>
     <li>mlie.ivoryandjadecarving</li>
+    <li>rwzh.chinesepack.ivoryandjadecarving</li>
     <li>neceros.simpleturrets</li>
     <li>mlie.sdbridges</li>
     <li>mlie.sdchickennest</li>
@@ -493,14 +491,14 @@
     <li>rwzh.chinesepack.sd</li>
     <li>rwzh.chinesepack.afvehicles</li>
     <li>mlie.harrowedlight</li>
+    <li>rwzh.chinesepack.harrowedlight</li>
     <li>syrchalis.coffeeandtea</li>
+    <li>rwzh.chinesepack.coffeeandtea</li>
     <li>chinesepackage.configurablemaps</li>
     <li>configurablemaps.kv.rw</li>
-    <li>leion247612.higherhpower</li>
     <li>none1637.raidcaller.normal</li>
     <li>vanya.agent.mangaface</li>
     <li>vanya.agent.moredetailbody</li>
-    <li>none1637.mulitiraid</li>
     <li>arandomkiwi.rimsaves</li>
     <li>rwzh.chinesepack.rimsaves</li>
     <li>inoshishi3.vanillaexpanded.vfepowerruspatch</li>
@@ -543,6 +541,7 @@
     <li>alex.friendlyfiretweaks</li>
     <li>qratz.aromexpansioncore</li>
     <li>ricofox233.touhoustyle.scarletdevil</li>
+    <li>meltup.beautifuloutdoors</li>
     <li>rwzh.chinesepack.unlimitedhugs</li>
     <li>lingluo.maidproject</li>
     <li>lingluo.lovelyhairstyle</li>
@@ -553,7 +552,12 @@
     <li>vanya.agent.housemaidnukos</li>
     <li>pigeon.texture.finder</li>
     <li>vanya.outsource.automechnekotest</li>
-    <li>changedresser.kv.rw</li>
+    <li>mouse.scenarios.patch</li>
+    <li>winds.harxenoorca.fix</li>
+    <li>peppsen.pmusic</li>
+    <li>zh.pawnmorpherpublic</li>
+    <li>majorhoff.rimthreaded</li>
+    <li>kentington.saveourship2</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
