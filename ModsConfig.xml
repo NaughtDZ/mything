@@ -101,8 +101,6 @@
     <li>unlimitedhugs.allowtool</li>
     <li>hodlhodl.releaseanimals</li>
     <li>walkingproblem.wildanimalsex</li>
-    <li>rwzh.chinesepack.simpleconcrete</li>
-    <li>rwzh.chinesepack.simpleturrets</li>
     <li>captainsnafu152.oewvuhresourcehreplicatorhchinesehpack</li>
     <li>rusticfox.chickenplucker.rr</li>
     <li>vanillaexpanded.afvehicles</li>
@@ -142,9 +140,9 @@
     <li>ghsgkd.animalslogiczh</li>
     <li>zh.animalsarefun</li>
     <li>gguake.apparelbodyresolver</li>
-    <li>sutsutman.marilyntheminchoworshipperwitch_copy</li>
-    <li>sutsutman.minchothemintchocoslime_copy</li>
+    <li>sutsutman.marilyntheminchoworshipperwitch</li>
     <li>zh.sutsutman.minchothemintchocoslime</li>
+    <li>sutsutman.minchothemintchocoslime</li>
     <li>lingluo.zerotechcore</li>
     <li>lingluo.zerotechability</li>
     <li>lingluo.zerotechtrait</li>
@@ -191,6 +189,8 @@
     <li>fluffy.desirepaths</li>
     <li>gloomylynx.dragonianrace</li>
     <li>spincrus.dinosauria</li>
+    <li>leion247612.higherhpower</li>
+    <li>rwzh.chinesepack.higherpowermod</li>
     <li>haduki.ancientspecies</li>
     <li>sihv.rombones</li>
     <li>rwzh.chinesepack.rombones</li>
@@ -198,6 +198,7 @@
     <li>rwzh.chinesepack.rimofmadnesswerewolves</li>
     <li>kato.rimofmadness.vampires</li>
     <li>rwzh.chinesepack.rimofmadnessvampires</li>
+    <li>roolo.almostthere</li>
     <li>roo.antyracemod</li>
     <li>roo.antyracemod.zh</li>
     <li>seigai.chinesepack.ancientspecies</li>
@@ -256,7 +257,6 @@
     <li>lwm.deepstorage</li>
     <li>rwzh.chinesepack.deepstorage</li>
     <li>mlie.pickupandhaul</li>
-    <li>earthyturtle.letstrade</li>
     <li>krafs.levelup</li>
     <li>avius.locks</li>
     <li>vanya.agent.lolidrophairshop</li>
@@ -285,7 +285,6 @@
     <li>hc.animal.4</li>
     <li>hc.animal.2</li>
     <li>rwzh.chinesepack.ratkinracemod</li>
-    <li>orion.onebigfamily</li>
     <li>rwzh.chinesepack.hcanimal</li>
     <li>battlemage64.peoplecanchange</li>
     <li>fed1splay.pawntargetfix</li>
@@ -373,7 +372,6 @@
     <li>jkviolet.rakkleracemode.copy</li>
     <li>rwzh.chinesepack.rakkleracemode</li>
     <li>orion.therapy</li>
-    <li>earthyturtle.therocktrade</li>
     <li>rwzh.chinesepack.therapy</li>
     <li>smashphil.dropspot</li>
     <li>rwzh.chinesepack.dropspot</li>
@@ -393,7 +391,6 @@
     <li>rwzh.chinesepack.perrypersistent</li>
     <li>vanillaexpanded.vaeas</li>
     <li>oskarhpotockithkikohi256.vanillahchristmashexpanded</li>
-    <li>ricofox233tleafzxg174.vanillauchristmasuexpandeduzh</li>
     <li>vanillaexpanded.vaeau</li>
     <li>vanillaexpanded.vaebf</li>
     <li>vanillaexpanded.vaecd</li>
@@ -442,13 +439,13 @@
     <li>xeva.xfbwithvanillabodypatch.11</li>
     <li>telefonmast.graphicssettings</li>
     <li>ricofox233.fgo.stylesapparelpack</li>
-    <li>rwzh.chinesepack.simplestorage</li>
     <li>asjjkl.costume</li>
     <li>frozensnowfox.encountermapresources</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>ricofox233.girlsfrontline.404team</li>
     <li>rwzh.chinesepack.fluffy</li>
     <li>jangodsoul.simplestorage</li>
+    <li>rwzh.chinesepack.simplestorage</li>
     <li>ricofox233.girlsfrontline.arteam</li>
     <li>rwzh.chinesepack.jecstools</li>
     <li>torann.arimworldofmagic</li>
@@ -460,10 +457,13 @@
     <li>notfood.infused</li>
     <li>rwzh.chinesepack.infused</li>
     <li>wemd.simpleconcrete</li>
+    <li>rwzh.chinesepack.simpleconcrete</li>
     <li>petetimessix.compacthediffs</li>
     <li>zephyr.compacthediffszh</li>
     <li>zephyr.infusion</li>
     <li>latta.infusion</li>
+    <li>spesscarp.commercialserver</li>
+    <li>xun.commercialserver</li>
     <li>zephyr.mineszh</li>
     <li>wexman.mines</li>
     <li>yuno.simpleorestest</li>
@@ -482,6 +482,7 @@
     <li>mlie.ivoryandjadecarving</li>
     <li>rwzh.chinesepack.ivoryandjadecarving</li>
     <li>neceros.simpleturrets</li>
+    <li>rwzh.chinesepack.simpleturrets</li>
     <li>mlie.sdbridges</li>
     <li>mlie.sdchickennest</li>
     <li>mlie.sdgoodnight</li>
@@ -533,7 +534,6 @@
     <li>rf.autodrill</li>
     <li>dolphin.braixen</li>
     <li>nyaamz190.bnchalienhsupport</li>
-    <li>benbenrat131.geneticrimhmegafaunahpatchuchinesehtranslationhpatch</li>
     <li>winds.harnearmare.fix</li>
     <li>rwzh.chinesepack.vwaae</li>
     <li>rwzh.chinesepack.vfe</li>
@@ -543,6 +543,7 @@
     <li>ricofox233.touhoustyle.scarletdevil</li>
     <li>meltup.beautifuloutdoors</li>
     <li>rwzh.chinesepack.unlimitedhugs</li>
+    <li>erin.hairredux</li>
     <li>lingluo.maidproject</li>
     <li>lingluo.lovelyhairstyle</li>
     <li>bjinternetsupervision.abac</li>
@@ -555,9 +556,6 @@
     <li>mouse.scenarios.patch</li>
     <li>winds.harxenoorca.fix</li>
     <li>peppsen.pmusic</li>
-    <li>zh.pawnmorpherpublic</li>
-    <li>majorhoff.rimthreaded</li>
-    <li>kentington.saveourship2</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
